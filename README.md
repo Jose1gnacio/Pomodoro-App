@@ -22,6 +22,3 @@ La Pomodoro App es una simple aplicación que implementa la técnica de gestión
 
 ## Contribución
 Contribuciones son bienvenidas. Si deseas mejorar la aplicación, crea una solicitud de extracción y estaré encantado de revisarla.
-
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
